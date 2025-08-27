@@ -10,6 +10,7 @@ Jeg har prøvet at demonstrer viden inde for alt fra at lave tabeller, views, og
 
 
 Jeg har prøvet at skrive nogle noter til resultater og tanker gennem hele opgaven (Der kan forkomme stavefejl her). 
+Det er selvfølgelig også muligt at udvide og gøre elementer af det mere specifikt og kompliceret, men vil gerne aflevere i noglelunde god tid så du kunne kigge på det hvis du lystede.
 
 ## Laod files
 Hver dataset er loadet ind i Postgress i de filer der ligger under data med dertilhørende navn
